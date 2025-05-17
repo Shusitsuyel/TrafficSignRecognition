@@ -1,0 +1,1 @@
+Image: 00000.png, Predicted class: 16
