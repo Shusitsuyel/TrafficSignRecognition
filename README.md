@@ -128,13 +128,11 @@ Uploaded Image Prediction:Predicted Class: Vehicles over 3.5t prohibited (ID: 16
 Confidence: 98.75%
 
 
-Webcam Prediction:Predicted Class: Stop (ID: 14)
-Confidence: 95.32%
+Webcam Prediction:Working On
 
 
 Notes
 
-Ensure your webcam is working for real-time predictions.
 The model was trained on 30x30 RGB images, so webcam predictions work best with clear, well-lit traffic signs.
 If running on OneDrive, pause syncing to avoid file access issues:# Move project to avoid OneDrive issues
 mv ~/OneDrive/Desktop/Trafficsign ~/Documents/Trafficsign
@@ -148,7 +146,7 @@ Credits
 
 GTSRB Dataset: Institut für Neuroinformatik, Ruhr-Universität Bochum.
 Libraries: TensorFlow, Streamlit, OpenCV, NumPy, Pandas, Matplotlib.
-Author: Shushit (your name).
+Author: Shushil Suyel.
 
 License
 This project is licensed under the MIT License.
